@@ -1,2 +1,2 @@
 # Belajar-Github-Resolusi-
-Repository  untuk menyimpanr rencana 
+Repository  untuk menyimpan rencana 
